@@ -55,7 +55,7 @@ export default async function handler(req, res) {
 
       const mailOptions = {
         from: "curiousbytes2@gmail.com", // Sender address
-        to: "f219245@cfd.nu.edu.pk", // Recipient email address
+        to: "f219257@cfd.nu.edu.pk", // Recipient email address
         subject: "Password Update Notification",
         text: `
           The password has been updated for the account:
